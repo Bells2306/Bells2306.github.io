@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+html{
+    background-color: rgb(177, 57, 57);
+    
+}
+
+.volver{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    background-color: rgb(186, 189, 13);
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(28, 28, 228);
+    font-size: 30px;
+}
+.sub{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(182, 160, 173);
+    font-size: 25px;
+}
+.cal{
+    padding: 18px;
+}
+
+.java{
+    text-align: center;
+    color:blueviolet;
+    font-size: 30px;
+    background-color: brown;
+}
